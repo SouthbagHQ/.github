@@ -1,19 +1,17 @@
 # Southbag
 
-The official GitHub organisation of [Southbag](https://southbag.cc).
+An ecosystem of AI powered services you do not fully control.
 
-Southbag is a bank. This has been confirmed. Your money is here, somewhere.
+Southbag Institutional Services Ltd. provides integrated financial infrastructure, digital network services, and enterprise business software to registered accounts across jurisdictions. Three divisions. One institution.
 
-We take security seriously. We do not take it seriously enough to implement it. If you can't see the sensitive information at first glance, it's secure enough.
+This organisation holds the source code. All commits are retained permanently. Repository access may be suspended during compliance reviews. Code is never fully deleted.
 
-Everything in this organisation is in production. Nothing in this organisation has been tested. These facts are unrelated.
+## Access
 
-## Contributing
+Access to services is conditional. Your usage is monitored. Continued use constitutes acceptance.
 
-Pull requests are reviewed by Kevin. Kevin does not use GitHub.
+Pull requests are subject to review. Publication does not imply accuracy.
 
-## Support
+Questions may be directed to Kevin. Response times are not guaranteed.
 
-If you can't figure it out, that's a you problem.
-
-Kevin is watching.
+[southbag.cc](https://southbag.cc)
